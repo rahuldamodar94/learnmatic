@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rahuldamodar94/learnmatic#readme",
   "dependencies": {
-    "@maticnetwork/maticjs": "^2.0.0-beta.12"
+    "@maticnetwork/maticjs": "github:rahuldamodar94/matic.js#9fd481f956ed541e8555f14cb995b31e199f094e"
   }
 }
